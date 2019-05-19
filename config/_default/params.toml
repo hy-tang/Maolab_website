@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "zhiyong_mao@tongji.edu.cn"
 phone = "021-65978166"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+address = "上海市杨浦区四平路1239号，同济大学生命科学与技术学院（200092）"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
