@@ -10,10 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- 同济大学生命科学与技术学院教授
-- 博士生导师
-- 同济大学附属第一妇婴保健院转化医学研究中心主任
+role: 同济大学生命科学与技术学院教授 博士生导师 同济大学附属第一妇婴保健院转化医学研究中心主任
 
 # Organizations/Affiliations
 #organizations:
@@ -32,7 +29,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
+    year: 2010
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
