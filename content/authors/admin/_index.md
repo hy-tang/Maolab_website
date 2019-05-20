@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 毛志勇
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 同济大学生命科学与技术学院教授、博士生导师
 
 # Organizations/Affiliations
 organizations:
