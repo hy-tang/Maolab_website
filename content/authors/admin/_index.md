@@ -11,9 +11,9 @@ superuser: true
 
 # Role/position
 role: 
-"同济大学生命科学与技术学院教授
-博士生导师
-同济大学附属第一妇婴保健院转化医学研究中心主任"
+- 同济大学生命科学与技术学院教授
+- 博士生导师
+- 同济大学附属第一妇婴保健院转化医学研究中心主任
 
 # Organizations/Affiliations
 #organizations:
