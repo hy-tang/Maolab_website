@@ -66,11 +66,11 @@
 {{ end }}
 
 <div class="row">
-  <div class="col-12 col-lg-3 section-heading">
+  <div class="col-12 col-lg-2 section-heading">
     <h1 style="font-size: 2rem; color: black">{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
-  <div class="col-12 col-lg-9">
+  <div class="col-12 col-lg-10">
     <div style="font-size: 13px">
         {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
     
