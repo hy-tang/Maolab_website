@@ -34,3 +34,6 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+# Font size
+font_size = "20"
+font_size_small = "16"
