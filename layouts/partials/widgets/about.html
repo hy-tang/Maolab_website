@@ -29,11 +29,11 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name" style="font-size: 22px">{{ $person.name }}</h2>
+        <h2 itemprop="name" style="font-size: 26px">{{ $person.name }}</h2>
         {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization" style="font-size: 12px">
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization" style="font-size: 16px">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
           <span itemprop="name">{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
@@ -71,7 +71,7 @@
   <div class="col-12 col-lg-9" itemprop="description">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h1 style="font-size: 26px">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
     {{ $person_page.Content }}
 
@@ -79,7 +79,7 @@
 
       {{ with $person.interests }}
       <div class="col-md-5">
-        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <h3 style="font-size: 16px">{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
@@ -90,7 +90,7 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
+        <h3 style="font-size: 16px">{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
