@@ -19,7 +19,8 @@ role:
 
 # Organizations/Affiliations
 #organizations:
-#- name: Stanford University
+- name: 同济大学
+- name: 同济大学附属第一妇婴保健院
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
