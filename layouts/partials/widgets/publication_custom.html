@@ -1,8 +1,8 @@
-{{/* Pages Widget */}}
+{{/* publication_custom Widget */}}
 
 {{/* Initialise */}}
 {{ $ := .root }}
-{{ $st := .Pages }}
+{{ $st := .publication_custom }}
 {{ $items_type := $st.Params.content.page_type | default "post" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
@@ -14,21 +14,21 @@
 {{ $items_sort := $st.Params.content.order | default "desc" }}
 
 {{/* Query */}}
-{{ $query := where site.RegularPages "Type" $items_type }}
+{{ $query := where site.Regularpublication_custom "Type" $items_type }}
 {{ $archive_page := site.GetPage "Section" $items_type }}
 
 {{/* Filters */}}
 {{ if $st.Params.content.filters.tag }}
   {{ $archive_page = site.GetPage (printf "tags/%s" $st.Params.content.filters.tag) }}
-  {{ $query = $query | intersect $archive_page.Pages }}
+  {{ $query = $query | intersect $archive_page.publication_custom }}
 {{ end }}
 {{ if $st.Params.content.filters.category }}
   {{ $archive_page = site.GetPage (printf "categories/%s" $st.Params.content.filters.category) }}
-  {{ $query = $query | intersect $archive_page.Pages }}
+  {{ $query = $query | intersect $archive_page.publication_custom }}
 {{ end }}
 {{ if $st.Params.content.filters.publication_type }}
   {{ $archive_page = site.GetPage (printf "publication_types/%s" $st.Params.content.filters.publication_type) }}
-  {{ $query = $query | intersect $archive_page.Pages }}
+  {{ $query = $query | intersect $archive_page.publication_custom }}
 {{ end }}
 {{ if $st.Params.content.filters.exclude_featured }}
   {{ $query = where $query "Params.featured" "!=" true }}
@@ -100,3 +100,4 @@
 <div style="font-size: 2rem; color: red">
   {{ .page.Content }}
 </div>
+  
