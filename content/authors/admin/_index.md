@@ -10,14 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: 同济大学生命科学与技术学院教授、博士生导师
-#["同济大学生命科学与技术学院教授"<br />"博士生导师"<br />"同济大学附属第一妇婴保健院转化医学研究中心主任"]
-#[{"同济大学生命科学与技术学院教授\n博士生导师\n同济大学附属第一妇婴保健院转化医学研究中心主任"}]
-#role: [{"同济大学生命科学与技术学院教授\n博士生导师\n同济大学附属第一妇婴保健院转化医学研究中心主任"}]
+role: 同济大学生命科学与技术学院-教授、博士生导师
+
 
 # Organizations/Affiliations
 organizations:
-- name: 同济大学附属第一妇婴保健院转化医学研究中心主任
+- name: 同济大学附属第一妇婴保健院
+- name: 转化医学研究中心主任
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
