@@ -1,8 +1,8 @@
-{{/* publication_custom Widget */}}
+{{/* Pages Widget */}}
 
 {{/* Initialise */}}
 {{ $ := .root }}
-{{ $st := .publication_custom }}
+{{ $st := .Pages }}
 {{ $items_type := $st.Params.content.page_type | default "post" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
