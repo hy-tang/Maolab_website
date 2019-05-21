@@ -89,7 +89,7 @@
       {{ end }}
 
       {{ with $person.education }}
-      <div class="col-md-3">
+      <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
@@ -105,7 +105,7 @@
       </div>
       {{ end }}
 
-      {{ with $person.fundings }}
+<!--       {{ with $person.fundings }}
       <div class="col-md-4">
         <h3>{{ i18n "fundings" | markdownify }}</h3>
         <ul class="ul-interests">
@@ -114,7 +114,7 @@
           {{ end }}
         </ul>
       </div>
-      {{ end }}
+      {{ end }} -->
 
     </div>
   </div>
