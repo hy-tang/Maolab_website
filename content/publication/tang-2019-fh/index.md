@@ -9,6 +9,6 @@ featured: true
 publication: "*Protein & Cell*"
 url_pdf: "http://link.springer.com/10.1007/s13238-018-0591-y"
 doi: "10.1007/s13238-018-0591-y"
-view: 4
+view: 1
 ---
 
