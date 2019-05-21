@@ -71,30 +71,30 @@
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-9">
-
-    {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
-
-    {{ range $post := $query }}
-      {{ if eq $st.Params.design.view 1 }}
-        {{ partial "li_list" . }}
-      {{ else if eq $st.Params.design.view 3 }}
-        {{ partial "li_card" . }}
-      {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
-        {{ partial "li_citation" . }}
-      {{ else }}
-        {{ partial "li_compact" . }}
-      {{ end }}
-    {{end}}
-
-    {{ if gt $count $items_count }}
-    <div class="see-all">
-      <a href="{{ $archive_page.RelPermalink }}">
-        {{ i18n $i18n | default "See all" }}
-        <i class="fas fa-angle-right"></i>
-      </a>
+    <div style="font-size: 2rem; color: blue">
+        {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
+    
+        {{ range $post := $query }}
+          {{ if eq $st.Params.design.view 1 }}
+            {{ partial "li_list" . }}
+          {{ else if eq $st.Params.design.view 3 }}
+            {{ partial "li_card" . }}
+          {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
+            {{ partial "li_citation" . }}
+          {{ else }}
+            {{ partial "li_compact" . }}
+          {{ end }}
+        {{end}}
+    
+        {{ if gt $count $items_count }}
+        <div class="see-all">
+          <a href="{{ $archive_page.RelPermalink }}">
+            {{ i18n $i18n | default "See all" }}
+            <i class="fas fa-angle-right"></i>
+          </a>
+        </div>
+        {{ end }}
     </div>
-    {{ end }}
-
   </div>
 </div>
   
