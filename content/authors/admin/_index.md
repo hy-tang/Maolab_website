@@ -41,10 +41,6 @@ education:
     institution: 南京大学
     year: 2002
 
-<!-- fundings:
-- 科技部重大科学研究计划（973项目）青年项目 500万元）,2012
-- 中组部青年千人计划资助（200万元）,2013
-上海市“浦江人才计划”资助 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
