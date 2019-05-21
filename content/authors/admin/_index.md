@@ -41,6 +41,9 @@ education:
     institution: 南京大学
     year: 2002
 
+fundings:
+- 南京大学
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
