@@ -18,7 +18,7 @@ role: 同济大学生命科学与技术学院 教授、博士生导师         �
 # Organizations/Affiliations
 #organizations:
 - name: 同济大学
-- name: 同济大学附属第一妇婴保健院
+#- name: 同济大学附属第一妇婴保健院
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
