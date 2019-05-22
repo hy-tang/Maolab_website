@@ -71,8 +71,8 @@
   <div class="col-12 col-lg-9" itemprop="description">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1 style="font-size: 26px">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-    <div style="font-size: 13px">
+    {{ if and $page.Params.widget $page.Title }}<h1 style="font-size: 36px">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    <div style="font-size: 16px">
       {{ $person_page.Content }}
     </div>
     <div class="row">
@@ -82,7 +82,7 @@
         <h3 style="font-size: 26px">{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
+          <li style="font-size: 16px">{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       </div>
