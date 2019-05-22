@@ -90,8 +90,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers:['jiangying']
-- Visitors
+- Principal Investigators
 ---
 
 毛志勇教授主要研究领域为衰老、肿瘤及干细胞相关DNA修复调控机制,重点从事DNA双链断裂损伤修复等研究,阐述衰老及肿瘤的发生机制,为延缓衰老和预防及治疗肿瘤提供了理论基础。近年来,他在肿瘤相关的DNA修复研究领域取得一系列重要研究成果：
