@@ -12,4 +12,7 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Researchers",
                "Students"]
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]               
 +++
