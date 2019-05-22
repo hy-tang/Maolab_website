@@ -72,14 +72,14 @@
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1 style="font-size: 26px">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-
-    {{ $person_page.Content }}
-
+    <div style="font-size: 13px">
+      {{ $person_page.Content }}
+    </div>
     <div class="row">
 
       {{ with $person.interests }}
       <div class="col-md-5">
-        <h3 style="font-size: 16px">{{ i18n "interests" | markdownify }}</h3>
+        <h3 style="font-size: 26px">{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
@@ -90,7 +90,7 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
-        <h3 style="font-size: 16px">{{ i18n "education" | markdownify }}</h3>
+        <h3 style="font-size: 26px">{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
