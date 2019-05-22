@@ -82,7 +82,7 @@
         <h3 style="font-size: 26px">{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
           {{ range . }}
-          <li style="font-size: 26px">{{ . | markdownify | emojify }}</li>
+          <li style="font-size: 16px">{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       </div>
@@ -90,7 +90,7 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
-        <h3 style="font-size: 16px">{{ i18n "education" | markdownify }}</h3>
+        <h3 style="font-size: 26px">{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
