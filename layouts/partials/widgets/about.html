@@ -85,11 +85,9 @@
           <li style="font-size: 16px">{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
-      </div>
       {{ end }} 
 
       {{ with $person.education }}
-      <div class="col-md-3">
         <h3 style="font-size: 24px">{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
@@ -106,7 +104,7 @@
       {{ end }}
 
       {{ with $person.fundings }}
-      <div class="col-md-5">
+      <div class="col-md-8">
         <h3 style="font-size: 24px">{{ i18n "fundings" | markdownify }}</h3>
         <ul class="ul-fundings">
           {{ range . }}
