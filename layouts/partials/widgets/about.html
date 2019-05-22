@@ -72,7 +72,7 @@
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
     {{ if and $page.Params.widget $page.Title }}<h1 style="font-size: 36px">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-    <div style="font-size: 16px;text-indent:initial" >
+    <div style="font-size: 16px;text-indent: 50px" >
       {{ $person_page.Content }}
     </div>
     <div class="row">
