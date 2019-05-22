@@ -40,7 +40,9 @@ education:
   - course: 生物学学士
     institution: 南京大学
     year: 2002
-
+fundings:
+- 衰老、肿瘤及干细胞相关DNA修复调控机制
+- 衰老、肿瘤及干细胞相关DNA修复调控机制
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
