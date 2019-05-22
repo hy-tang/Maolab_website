@@ -90,8 +90,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers:['Ying jiang']
-- Visitors
+- Researchers:['jiangying']
 ---
 
 毛志勇教授主要研究领域为衰老、肿瘤及干细胞相关DNA修复调控机制,重点从事DNA双链断裂损伤修复等研究,阐述衰老及肿瘤的发生机制,为延缓衰老和预防及治疗肿瘤提供了理论基础。近年来,他在肿瘤相关的DNA修复研究领域取得一系列重要研究成果：1、在国际上首次系统阐释了cGAS完全独立于DNA识别功能的细胞核内的全新功能,由此为基于干预cGAS进入细胞核而开发新型抗肿瘤药物提供了理论基础。该项研究发表于国际顶级学术期刊《自然》(Nature),并被Nat Rev Mol Cell Biol、Cancer Discov等期刊作为研究亮点进行报道。2、首次发现SIRT6调控DNA修复的功能并深入阐明起调控机制,为发展延缓衰老和治疗肿瘤新方法奠定理论基础,相关研究发表于《科学》(Science)、Cell Rep等学术期刊。3.首次发现GATA3、POT1等肿瘤和衰老相关因子在不同步骤调控DNA双链断裂损伤修复的新功能,为预防、治疗肿瘤及延缓衰老提供新靶点。
