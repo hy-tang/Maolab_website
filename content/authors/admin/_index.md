@@ -34,15 +34,22 @@ education:
   - course: 生物学博士
     institution: 罗切斯特大学
     year: 2010
-  - course: 植物学硕士学位
+  - course: 植物学硕士
     institution: 南京大学
     year: 2004
   - course: 生物学学士
     institution: 南京大学
     year: 2002
 fundings:
-- 衰老、肿瘤及干细胞相关DNA修复调控机制
-- 衰老、肿瘤及干细胞相关DNA修复调控机制
+- 科技部重大科学研究计划（973项目）青年项目（500万元），2012
+- 中组部青年千人计划（200万元），2013
+- 上海市浦江人才计划（20万元），2014
+- 国家自然科学基金面上项目一项（80万元），2014
+- 国家自然科学基金重大研究计划一项（90万元），2016
+- 国家自然科学基金面上项目一项（72万元），2016
+- 国家自然科学基金优秀青年科学基金项目资助（150万元），2017
+- 上海市优秀学术带头人计划（40万元），2018
+- 国家自然科学基金面上项目一项（72万元），2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
