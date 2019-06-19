@@ -16,7 +16,7 @@ role: 博士研究生
 bio: 核苷酸切除修复
 
 interests:
-- 研究领域
+- 核苷酸切除修复与女性生殖系统肿瘤
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
