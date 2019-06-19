@@ -9,7 +9,8 @@ links:
 - ''
 featured: false
 draft: false
-Twitter : false
+sharing = false
+
 ---
 诚聘研究助理 1 名,具体要求如下：
 
