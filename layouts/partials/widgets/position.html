@@ -2,8 +2,8 @@
 
 {{/* Initialise */}}
 {{ $ := .root }}
-{{ $st := .page }}
-{{ $items_type := $st.Params.content.page_type | default "post" }}
+{{ $st := .position }}
+{{ $items_type := $st.Params.content.page_type | default "position" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
 {{ if eq $items_count 0 }}
