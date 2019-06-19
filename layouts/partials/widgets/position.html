@@ -2,7 +2,7 @@
 
 {{/* Initialise */}}
 {{ $ := .root }}
-{{ $st := .post }}
+{{ $st := .position }}
 {{ $items_type := $st.Params.content.page_type | default "post" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
