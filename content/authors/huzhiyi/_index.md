@@ -13,7 +13,7 @@ superuser: false
 role: 博士研究生
 
 # Short bio (displayed in user profile at end of posts)
-bio: DNA双链修复与子宫内膜癌呗
+bio: DNA双链修复与子宫内膜癌
 
 interests:
 - DNA双链修复与子宫内膜癌呗
