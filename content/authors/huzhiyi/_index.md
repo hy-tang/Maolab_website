@@ -10,13 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: 职位
+role: 博士研究生
 
 # Short bio (displayed in user profile at end of posts)
 bio: DNA双链修复与子宫内膜癌呗
 
 interests:
-- 研究领域
+- DNA双链修复与子宫内膜癌呗
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
