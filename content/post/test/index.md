@@ -1,6 +1,6 @@
 
 ---
-title: '招聘启事s'
+title: '招聘启事'
 summary: 诚聘研究助理 1 名
 date: "2019-06-05"
 authors:
