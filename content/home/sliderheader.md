@@ -35,16 +35,16 @@ interval = 2500
   content = ""
   align = "Center"
 
-  overlay_color = "#999"  # An HTML color value.
+  overlay_color = "#950"  # An HTML color value.
   overlay_img = "headers/Presentation2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = ""
+  content = ""
+  align = "Center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_color = "#900"  # An HTML color value.
+  overlay_img = "headers/Presentation4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
