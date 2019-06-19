@@ -40,8 +40,8 @@ interval = 2500
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
-  content = ""
+  title = " "
+  content = " "
   align = "Center"
 
   overlay_color = "#900"  # An HTML color value.
