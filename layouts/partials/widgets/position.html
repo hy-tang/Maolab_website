@@ -2,7 +2,7 @@
 
 {{/* Initialise */}}
 {{ $ := .root }}
-{{ $st := .page }}
+{{ $st := .position }}
 {{ $items_type := $st.Params.content.page_type | default "position" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
@@ -67,7 +67,7 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+    <h1>{{ with $st.title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
