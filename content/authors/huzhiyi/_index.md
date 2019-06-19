@@ -16,7 +16,7 @@ role: 博士研究生
 bio: DNA双链修复与子宫内膜癌
 
 interests:
-- DNA双链修复与子宫内膜癌呗
+- DNA双链修复与子宫内膜癌
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
