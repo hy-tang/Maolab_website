@@ -10,9 +10,9 @@ draft: false
 
 ---
 
-10月24日，我校附属肺科医院/医学院戈宝学课题组和生命科学与技术学院/附属第一妇婴保健院毛志勇课题组在国际权威学术期刊Nature在线发表题为“Nuclear cGAS suppresses DNA repair and promotes tumorigenesis”的论文。该研究发现，胞浆DNA识别受体cGAS在细胞发生DNA损伤时可转位进入细胞核，并被招募至DNA损伤位点，通过干扰PAPR1/Timeless复合体形成，抑制DNA同源重组修复（Homologous Recombination Repair），进而降低基因组稳定性，最终促进肿瘤的发生。该工作首次系统阐释了cGAS完全独立于DNA识别的核内功能，同时，为基于干预cGAS入核开发新型抗肿瘤药物奠定了理论基础。
+    10月24日，我校附属肺科医院/医学院戈宝学课题组和生命科学与技术学院/附属第一妇婴保健院毛志勇课题组在国际权威学术期刊Nature在线发表题为“Nuclear cGAS suppresses DNA repair and promotes tumorigenesis”的论文。该研究发现，胞浆DNA识别受体cGAS在细胞发生DNA损伤时可转位进入细胞核，并被招募至DNA损伤位点，通过干扰PAPR1/Timeless复合体形成，抑制DNA同源重组修复（Homologous Recombination Repair），进而降低基因组稳定性，最终促进肿瘤的发生。该工作首次系统阐释了cGAS完全独立于DNA识别的核内功能，同时，为基于干预cGAS入核开发新型抗肿瘤药物奠定了理论基础。
 
-2013年，美国科学院院士陈志坚（Zhijian James Chen）教授首次鉴定出胞浆DNA识别受体环鸟苷酸-腺苷酸合成酶（cyclic GMP-AMP synthase，cGAS），这在DNA识别领域具有里程碑意义。cGAS能够识别细胞质内的双链DNA (dsDNA)，包括外源dsDNA（如病毒、细菌、寄生虫等）和自身dsDNA（如受损的线粒体DNA、微核DNA、反转录转座子等）。cGAS和dsDNA结合后催化形成第二信使—环鸟苷酸-腺苷酸，产生的环鸟苷酸-腺苷酸会结合和激活下游干扰素刺激蛋白STING，进而招募丝氨酸苏氨酸蛋白激酶TBK1，并激活转录因子IRF3，最终导致I型干扰素和相关免疫因子的产生。近年来，关于cGAS识别dsDNA并诱导下游信号通路激活及I型干扰素生成方面成果不断涌现。然而，值得注意的，在进化上，cGAS的出现先于其调控的I型干扰素，其是否发挥DNA识别介导I型干扰素这一经典功能之外的、“不为人知”的作用呢？
+    2013年，美国科学院院士陈志坚（Zhijian James Chen）教授首次鉴定出胞浆DNA识别受体环鸟苷酸-腺苷酸合成酶（cyclic GMP-AMP synthase，cGAS），这在DNA识别领域具有里程碑意义。cGAS能够识别细胞质内的双链DNA (dsDNA)，包括外源dsDNA（如病毒、细菌、寄生虫等）和自身dsDNA（如受损的线粒体DNA、微核DNA、反转录转座子等）。cGAS和dsDNA结合后催化形成第二信使—环鸟苷酸-腺苷酸，产生的环鸟苷酸-腺苷酸会结合和激活下游干扰素刺激蛋白STING，进而招募丝氨酸苏氨酸蛋白激酶TBK1，并激活转录因子IRF3，最终导致I型干扰素和相关免疫因子的产生。近年来，关于cGAS识别dsDNA并诱导下游信号通路激活及I型干扰素生成方面成果不断涌现。然而，值得注意的，在进化上，cGAS的出现先于其调控的I型干扰素，其是否发挥DNA识别介导I型干扰素这一经典功能之外的、“不为人知”的作用呢？
 
 研究者首先通过核质分离实验和免疫荧光实验发现在DNA损伤（etoposide，camptothecin和H2O2处理）压力下，大量cGAS快速进入到细胞核内。而且，cGAS的DNA识别能力和酶活性并不参与其入核调控。有趣的是，cGAS的Y215E突变体在DNA损伤压力下并不能入核。通过制备Y215酪氨酸位点磷酸化抗体，研究者进一步发现，在DNA损伤压力下cGAS的215酪氨酸位点磷酸化水平显著下降，说明cGAS Y215的磷酸化对于cGAS胞浆滞留十分重要。研究者进一步筛选了89个酪氨酸激酶shRNA对GFP-cGAS入核的调控作用，发现下调BLK（B-lymphoid tyrosine kinase）表达可显著增强cGAS入核，同时cGAS Y215位点的磷酸化水平降低。研究提示， BLK可促进cGAS Y215位点磷酸化使其在细胞质中滞留。此外，研究者发现cGAS存在一个保守的核定微信号序列（Nuclear Localization Sequence, NLS），可通过与importin α相互作用调控其转位入核。该研究首次证明cGAS入核是一个受调控的过程。
 
