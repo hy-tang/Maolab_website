@@ -3,7 +3,7 @@
 {{/* Initialise */}}
 {{ $ := .root }}
 {{ $st := .position }}
-{{ $items_type := $st.Params.content.page_type | default "position" }}
+{{ $items_type := $st.Params.content.page_type | default "post" }}
 {{ $items_offset := $st.Params.content.offset | default 0 }}
 {{ $items_count := $st.Params.content.count }}
 {{ if eq $items_count 0 }}
@@ -55,7 +55,7 @@
 
 {{/* Localisation */}}
 {{ $i18n := "" }}
-{{ if eq $items_type "position" }}
+{{ if eq $items_type "post" }}
   {{ $i18n = "more_position" }}
 {{ else if eq $items_type "talk" }}
   {{ $i18n = "more_talks" }}
