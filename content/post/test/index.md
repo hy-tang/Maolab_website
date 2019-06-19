@@ -3,11 +3,13 @@
 title: '招聘启事'
 summary: 诚聘研究助理 1 名
 date: "2019-06-05"
-
+authors:
+- ''
 featured: false
 draft: false
 
 ---
+诚聘研究助理 1 名
 具体要求如下：
 
 	1. 具有本科以上学历，专业不限，年龄不限。 
