@@ -31,13 +31,13 @@ interval = 2500
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
-  content = "欢迎扫码关注我们的公众号 XX,了解最新的衰老，干细胞，肿瘤及DNA损伤修复相关资讯"
+  title = "1"
+  content = "1"
   align = "Center"
 
-  overlay_color = "#950"  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = "headers/Presentation2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
