@@ -5,7 +5,7 @@ date: "2019-06-05"
 authors:
 - ''
 
-featured: true
+featured: false
 draft: false
 
 ---
