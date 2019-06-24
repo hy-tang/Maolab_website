@@ -2,7 +2,7 @@
 ---
 title: '招聘启事'
 summary: 诚聘博士后
-date: "2019-06-024"
+date: "2019-06-24"
 authors:
 - ''
 
