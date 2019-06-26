@@ -16,7 +16,7 @@ role: 硕士研究生
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 胚胎干细胞和诱导性多能干细胞基因组稳定性和质量的研究
+- 胚胎干细胞和IPS基因组稳定性和质量的研究
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
