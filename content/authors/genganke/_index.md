@@ -16,7 +16,7 @@ role: 博士研究生
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- DNA单链损伤修复机制研究和DNA损伤修复与癌症的研究
+- DNA单链损伤修复的机制研究和DNA损伤修复与癌症的研究
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
