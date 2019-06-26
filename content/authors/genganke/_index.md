@@ -13,10 +13,10 @@ superuser: false
 role: 博士研究生
 
 # Short bio (displayed in user profile at end of posts)
-bio: DNA单链损伤修复的机制研究和DNA损伤修复与癌症的研究
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 核苷酸切除修复与女性生殖系统肿瘤
+- DNA单链损伤修复的机制研究和DNA损伤修复与癌症的研究
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
