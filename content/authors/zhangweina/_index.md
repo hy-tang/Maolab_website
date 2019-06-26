@@ -16,7 +16,7 @@ role: 职位
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 研究领域
+- 探索激活DNA修复通路对基因组稳定性的影响
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
