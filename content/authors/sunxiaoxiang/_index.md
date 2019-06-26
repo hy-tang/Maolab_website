@@ -10,13 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: 职位
+role: 博士研究生
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 研究领域
+- DNA修复中的表观遗传修饰
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
