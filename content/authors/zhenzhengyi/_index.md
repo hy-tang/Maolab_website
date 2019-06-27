@@ -16,7 +16,7 @@ role: 博士研究生
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 细胞衰老相关机制研究
+- 细胞衰老与免疫相关机制研究
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
