@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 # Role/position
-role: 博士研究生
+role: 硕士研究生
 
 # Short bio (displayed in user profile at end of posts)
-bio: DNA双链修复与子宫内膜癌
+bio: 靶向基因组稳定性治疗子宫内膜癌
 
 interests:
 - DNA双链修复与子宫内膜癌
