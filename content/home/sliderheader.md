@@ -27,8 +27,8 @@ interval = 2000
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get Academic"
   cta_url = "https://link.springer.com/article/10.1007/s13238-018-0591-y"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 [[item]]
   title = "1"
