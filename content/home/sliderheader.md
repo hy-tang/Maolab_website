@@ -12,7 +12,7 @@ interval = 2000
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "a"
+  title = [a](https://link.springer.com/article/10.1007/s13238-018-0591-y)
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
