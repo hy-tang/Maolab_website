@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Our research is focused on <br/>Aging, <br/>Cancer, <br/>Stem cell and <br/>DNA repair."
+title = "Our research is focused on <br/>&emsp;Aging <br/>&emsp;&emsp;Cancer <br/>&emsp;&emsp;&emsp;Stem cell <br/>&emsp;&emsp;&emsp;&emsp;DNA repair."
 subtitle = ""
 
 [design]
@@ -46,11 +46,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Aging is one of the biggest mysteries of biology. “Why we age?” is a basic biological question, and at the same time, it is highly medically relevant. Aging is associated with the accumulation of mutations and genomic instability.
-
-We study age-related changes in the repair of DNA double-strand breaks using human cells and transgenic mice. We are also using a comparative approach to study aging by analyzing short- and long-lived animal species.
-
-Finally, as aging is associated with increased cancer incidence, we study DNA repair in breast cancer cells, and anti-cancer mechanisms in short- and long-lived rodents
 
 
