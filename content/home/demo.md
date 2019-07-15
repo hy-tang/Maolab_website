@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Our research is focused on <br/><br/>&emsp;Aging <br/><br/>&emsp;&emsp;Cancer <br/><br/>&emsp;&emsp;&emsp;Stem cell <br/><br/>&emsp;&emsp;&emsp;&emsp;DNA repair."
-subtitle = ""
+title = "Our research is focused on"
+subtitle = "Aging <br/><br/>&emsp;&emsp;Cancer <br/><br/>&emsp;&emsp;&emsp;Stem cell <br/><br/>&emsp;&emsp;&emsp;&emsp;DNA repair"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
