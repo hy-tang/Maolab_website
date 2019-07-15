@@ -13,7 +13,7 @@ interval = 2000
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = ""
+  content = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -41,7 +41,7 @@ interval = 2000
 
 [[item]]
   title = ""
-  content = ""
+  content = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   align = "Center"
 
   overlay_color = "#900"  # An HTML color value.
