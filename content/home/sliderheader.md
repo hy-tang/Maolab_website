@@ -12,7 +12,7 @@ interval = 2000
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
+  title = "a"(https://link.springer.com/article/10.1007/s13238-018-0591-y)
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -36,7 +36,7 @@ interval = 2000
   align = "Center"
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = [headers/Presentation2.jpg](https://link.springer.com/article/10.1007/s13238-018-0591-y)  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/Presentation2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
