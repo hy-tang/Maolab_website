@@ -8,11 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Our research is focused on  
-Aging  
-Cancer  
-Stem cell  
-DNA repair."
+title = "Our research is focused on &nbsp;Aging, &nbsp; Cancer, &nbsp; Stem cell and &nbsp; DNA repair."
 subtitle = ""
 
 [design]
