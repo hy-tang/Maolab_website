@@ -1,22 +1,22 @@
 ---
 # Display name
-name: 贾园荟
+name: 钱祯
 
 # Username (this should match the folder name)
 authors:
-- jiayuanhui
+- qianzhen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副研究员
+role: 技术员
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 妊娠期生理过程及疾病发生的表观遗传调控
+- 转化医学研究中心免疫组化平台及危险化学品平台管理员
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Staffs
 ---
 
 
