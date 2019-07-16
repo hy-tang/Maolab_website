@@ -16,7 +16,7 @@ role: 技术员
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 转化医学研究中心免疫组化平台及危险化学品平台管理员
+- 转化医学研究中心免疫组化及危险化学品平台管理员
 #- Computational Linguistics
 #- Information Retrieval
 # Social/Academic Networking
