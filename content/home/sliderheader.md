@@ -31,13 +31,13 @@ interval = 4000
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
-  content = ""
+  title = "1"
+  content = "1"
   align = "Center"
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "headers/Presentation2.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
