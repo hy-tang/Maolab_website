@@ -1,5 +1,5 @@
 ---
-title: "POT1 inhibits the efficiency but promotes the fidelity of nonhomologous end joining at non-telomeric DNA regions."
+title: "POT1 inhibits the efficiency but promotes the fidelity of nonhomologous end joining at non-telomeric DNA regions"
 date: 2017-12-01
 publishDate: 2019-05-21T05:23:31.132837Z
 authors: ["Yang Yu", "Rong Tan", "Qian Ren", "Boya Gao", "Zhejin Sheng", "Juanlian Zhang", "Xiaoqing Zheng", "Ying Jiang<sup>* </sup>", "Li Lan<sup>* </sup>", "**Zhiyong Mao**<sup>* </sup>"]
