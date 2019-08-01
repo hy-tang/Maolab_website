@@ -31,8 +31,8 @@ interval = 4000
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "1"
-  content = "1"
+  title = ""
+  content = ""
   align = "Center"
 
   overlay_color = ""  # An HTML color value.
