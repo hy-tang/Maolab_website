@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Our research is focused on Ageing, Cancer, Stem cell & DNA repair"
+title = "Our research is focused on Ageing, Cancer, Stem cell and DNA repair"
 subtitle = ""
 
 [design]
@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "0", "0"]
+  padding = ["0", "0", "3px", "0"]
 
 [advanced]
  # Custom CSS. 
