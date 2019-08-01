@@ -7,7 +7,7 @@ weight = 16  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3000
+interval = 3500
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -20,7 +20,7 @@ interval = 3000
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#999"  # An HTML color value.
   overlay_img = "headers/Presentation3.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -46,5 +46,5 @@ interval = 3000
 
   overlay_color = "#900"  # An HTML color value.
   overlay_img = "headers/Presentation4.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
