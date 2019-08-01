@@ -7,7 +7,7 @@ weight = 16  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 3500
+interval = 4000
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
