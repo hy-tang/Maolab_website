@@ -6,8 +6,7 @@ authors: ["Vera Gorbunova", "Andrei Seluanov", "**Zhiyong Mao**", "Christpher Hi
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "***Nucleic Acids Research***"
-url_pdf: "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkm756"
+publication: "**Nucleic Acids Research**"
 doi: "10.1093/nar/gkm756"
 ---
 
