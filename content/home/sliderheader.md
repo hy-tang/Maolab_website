@@ -54,6 +54,6 @@ interval = 4000
   align = "Center"
 
   overlay_color = "#900"  # An HTML color value.
-  overlay_img = "headers/Slide1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/Picture1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 +++
