@@ -54,9 +54,9 @@ fundings:
 - 国家自然科学基金重大研究计划, 2016
 - 国家自然科学基金面上项目, 2016
 - 国家自然科学基金优秀青年科学基金项目资助, 2017
-- 上海市优秀学术带头人计划, 2018
 - 国家自然科学基金面上项目, 2018
 - 科技部重点研发项目课题负责人, 2018
+- 上海市优秀学术带头人计划, 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
